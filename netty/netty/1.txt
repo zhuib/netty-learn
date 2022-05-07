@@ -1,0 +1,12 @@
+hello world
+zhuib
+beautiful
+
+创建文件的快捷键
+鼠标移到包上，得选中包，还有从代码窗口到包的窗口可以使用Ctrl+Tab进行切换，你的方法超级管用
+ctrl+alt+insert
+alt+1会移动到项目结构目录哪个侧边栏，再alt+insert就可以新建包、类、文件夹等等
+最大化窗口
+intellij idea要最大化：
+Windows 上： Ctrl+Shift+F12
+OS X 上：Command+Shift+F12
